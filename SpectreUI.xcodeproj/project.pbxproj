@@ -11,6 +11,7 @@
 		8E65C382264C5E30003FFFFC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E65C381264C5E30003FFFFC /* ContentView.swift */; };
 		8E65C384264C5E33003FFFFC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E65C383264C5E33003FFFFC /* Assets.xcassets */; };
 		8E65C387264C5E33003FFFFC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E65C386264C5E33003FFFFC /* Preview Assets.xcassets */; };
+		8E65C390264C5F09003FFFFC /* SiteCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E65C38F264C5F09003FFFFC /* SiteCardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		8E65C383264C5E33003FFFFC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E65C386264C5E33003FFFFC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8E65C388264C5E33003FFFFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8E65C38F264C5F09003FFFFC /* SiteCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SiteCardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				8E65C37F264C5E30003FFFFC /* SpectreUIApp.swift */,
 				8E65C381264C5E30003FFFFC /* ContentView.swift */,
+				8E65C38F264C5F09003FFFFC /* SiteCardView.swift */,
 				8E65C383264C5E33003FFFFC /* Assets.xcassets */,
 				8E65C388264C5E33003FFFFC /* Info.plist */,
 				8E65C385264C5E33003FFFFC /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E65C382264C5E30003FFFFC /* ContentView.swift in Sources */,
+				8E65C390264C5F09003FFFFC /* SiteCardView.swift in Sources */,
 				8E65C380264C5E30003FFFFC /* SpectreUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
